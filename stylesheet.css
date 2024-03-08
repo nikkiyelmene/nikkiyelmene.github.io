@@ -67,3 +67,19 @@ img{
 	float: center;
 
 }
+
+#hobbies{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	boarder: 3px;
+	margin: 0, auto;
+	float: middle
+}
+
+.eachhobby{
+	width: 40%;
+	background color: #efefef;
+	height: 70%;
+	text-height: 130%
+}
