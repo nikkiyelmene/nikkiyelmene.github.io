@@ -78,8 +78,9 @@ img{
 }
 
 .eachhobby{
-	width: 40%;
+	width: 250;
 	background color: #efefef;
-	height: 70%;
-	text-height: 130%
+	height: 350;
+	text-height: 150%
+	text-align: center
 }
