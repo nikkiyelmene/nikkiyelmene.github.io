@@ -1,0 +1,69 @@
+{
+font-family:Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+color: #000;
+text-align: center;
+background-color: brown;
+}
+
+body{
+width: 960px;
+margin:0 auto;
+}
+
+nav{
+position: absolute; 
+right: 100px;
+top: 18px ;
+font-variant: small caps; 
+font-size: small; 
+word-spacing: 15px; 
+letter-spacing: 2px; 
+
+}
+
+li{
+	display: inline;
+	padding: 5px;
+
+}
+
+a{
+	color: black;
+	text-decoration-line: none;
+}
+
+a:hover{
+	color: white;
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: #efefef;
+	width: 500px;
+	margin-bottom: auto;
+	position: absolute;
+	top: 200px;
+	right: 50px;
+	padding: 20px;
+}
+
+article{
+	background-color: #efefef;
+	padding: 20px;
+	margin: 30px;
+	width: 250px;
+	float: bottom;
+
+}
+
+p{
+	bottom: 10px;
+}
+img{
+	float: center;
+
+}
