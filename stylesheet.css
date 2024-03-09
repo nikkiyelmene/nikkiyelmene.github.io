@@ -84,3 +84,12 @@ img{
 	text-height: 150%
 	text-align: center
 }
+
+#placestraveled{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	boarder: 3px;
+	margin: 0, auto;
+	float: middle
+}
