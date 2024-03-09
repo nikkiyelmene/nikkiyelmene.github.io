@@ -72,7 +72,7 @@ img{
 	justify-content: space-between;
 	boarder: 3px;
 	margin: 0, auto;
-	float: middle
+	float: middle;
 }
 
 .eachhobby{
@@ -80,7 +80,7 @@ img{
 	background color: #efefef;
 	height: 350;
 	text-height: 150%
-	text-align: center
+	text-align: center;
 }
 
 #studyabroad{
@@ -89,18 +89,18 @@ img{
 	justify-content: space-between;
 	boarder: 3px;
 	margin: 0, auto;
-	float: middle
+	float: middle;
 }
 
 .placestraveled{
 	width: 250;
 	height:350; 
-	text-height: 150%
-	text-align: left	
+	text-height: 150%;
+	text-align: left;	
 }
 
 img5{
  	float: left;
 	padding:10px;
-	left: 10px
+	left: 10px;
 }
