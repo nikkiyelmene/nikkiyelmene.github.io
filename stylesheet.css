@@ -2,7 +2,6 @@
 font-family:Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
 color: #000;
 text-align: center;
-background-color: brown;
 }
 
 body{
@@ -65,7 +64,6 @@ p{
 }
 img{
 	float: center;
-
 }
 
 #hobbies{
