@@ -88,7 +88,7 @@ img{
 	flex-direction: row;
 	justify-content: space-between;
 	boarder: 3px;
-	margin: 0, auto;
+	margin: 10px;
 	float: middle;
 }
 
