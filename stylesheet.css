@@ -99,4 +99,11 @@ img{
 	height:350; 
 	text-height: 150%
 	text-align: center
+	
+}
+
+img5{
+ 	float: left;
+	padding:10px;
+	left: 10px
 }
