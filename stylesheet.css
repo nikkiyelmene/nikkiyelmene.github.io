@@ -78,7 +78,7 @@ img{
 
 .eachhobby{
 	width: 250;
-	background color: #efefef;
+	background-color: #efefef;
 	height: 350;
 	text-height: 150%
 	text-align: center;
@@ -107,6 +107,6 @@ img5{
 }
 
 img9{
-	float: center;
+	position:absolute;
 
 }
