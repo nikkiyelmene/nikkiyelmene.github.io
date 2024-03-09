@@ -85,11 +85,18 @@ img{
 	text-align: center
 }
 
-#placestraveled{
+#studyabroad{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 	boarder: 3px;
 	margin: 0, auto;
 	float: middle
+}
+
+.placestraveled{
+	width: 250;
+	height:350; 
+	text-height: 150%
+	text-align: center
 }
